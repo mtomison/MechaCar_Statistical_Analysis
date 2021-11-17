@@ -7,3 +7,6 @@
 
 
 ## T-Tests on Suspension Coils
+
+
+## Study Design: MechaCar vs Competition
